@@ -1,0 +1,10 @@
+Row,Country,Year,Sales,Cust_id,Customer_Name,Customer_Age,Customer_Sex
+2,USA,2015,3152,C002,Michael,24,Male
+5,IND,2014,987,C005,Mithun,36,Male
+3,UK,2017,2934,C003,James ,19,Male
+8,SA,2002,2258,C008,Lana,27,Female
+4,UK,2018,670,C004,Thomas,18,Male
+1,USA,2014,1871,C001,Alex,22,Male
+6,IND,2015,3256,C006,,,
+7,AUS,2000,439,C007,,,
+,,,,,Ram,30,Male

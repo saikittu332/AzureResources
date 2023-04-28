@@ -1,0 +1,22 @@
+--create database Azure_SQL_DB;
+
+
+--create table customer (id int, Name varchar(30), age int, Address_id int, Sales_id int);
+
+--create table address (Address_id int, Address varchar (50), country varchar (20), geo varchar (20), phone_no varchar (15));
+
+--create table Sales( Sales_id int, Date_of_Sale date,Total_sales decimal);
+
+
+--insert into customer (id, Name , age , Address_id , Sales_id ) values (1,'Sarafu', 35, 1,1) , (2,'Raju', 32, 2,2) , (3,'Ajith', 30, 3,3) ,   (4,'Ram', 35, 4,4) , (5,'Arvind', 35, 5,5)
+
+--insert into address (Address_id , Address , country , geo , phone_no) values (1 , 'Bangalore', 'Ind', 'asia', '+91999999998'), (2 , 'New york ', 'USA', 'North America', '+19999997654'), (3 , 'london', 'UK', 'europe', '+44999123456'), (4 , 'Delhi', 'Ind', 'asia', '+9199945454'), (5 , 'chennai', 'Ind', 'asia', '+91998000000') 
+
+--insert into Sales (Sales_id , Date_of_Sale ,Total_sales ) values (1, '10-10-2019', 450.00), (2, '11-10-2018', 500.00), (3, '1-1-2017', 950.00), (4, '5-5-2017', 200.00), (5, '5-5-2015', 1450.00)
+
+select * from customer;
+
+select * from address;
+
+select * from Sales;
+

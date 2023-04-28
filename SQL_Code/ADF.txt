@@ -1,0 +1,5 @@
+Resource Group: ADF_2
+Storage Account: storageaccountadf
+Data Lake: datalakeadf
+Azure SQL DB: dbserveradf (server)
+SQL_DB (Data base) 
